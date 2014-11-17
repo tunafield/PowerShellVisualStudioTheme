@@ -103,7 +103,7 @@
       <B>0</B>
       <ScA>1</ScA>
       <ScR>1</ScR>
-      <ScG>0.262250662</ScG>
+      <ScG>0.2622507</ScG>
       <ScB>0</ScB>
     </Color>
     <Color>
@@ -119,12 +119,12 @@
     <Color>
       <A>255</A>
       <R>0</R>
-      <G>255</G>
-      <B>255</B>
+      <G>220</G>
+      <B>220</B>
       <ScA>1</ScA>
       <ScR>0</ScR>
-      <ScG>1</ScG>
-      <ScB>1</ScB>
+      <ScG>0.715693533</ScG>
+      <ScB>0.715693533</ScB>
     </Color>
     <Color>
       <A>0</A>
